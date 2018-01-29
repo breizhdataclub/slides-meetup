@@ -1,5 +1,9 @@
 ## Slides des meetups
 
+### R, vous avez dit R ? - 2018-0124
+
+Colin Fay (ThinkR) - ["R, vous avez-dit R ?"](https://github.com/ThinkR-open/meetup-r)
+
 ### À la découverte de Wikidata - 2017-12-12
 
 Enven Le Hir (Freelance engineer) — [Atelier Wikidata Premières contributions](https://commons.wikimedia.org/wiki/File:FR_-_Atelier_Wikidata_Premi%C3%A8res_contributions_(d%C3%A9cembre_2017,_Rennes).pdf)
