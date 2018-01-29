@@ -1,6 +1,6 @@
 ## Slides des meetups
 
-### R, vous avez dit R ? - 2018-0124
+### R, vous avez dit R ? - 2018-01-24
 
 Colin Fay (ThinkR) - ["R, vous avez-dit R ?"](https://github.com/ThinkR-open/meetup-r)
 
