@@ -1,5 +1,10 @@
 ## Slides des meetups
 
+### Neo4J : Introduction et étude de Cas — 2018-03-08
+
+Michel Caradec (Cegid) — [Introduction à Neo4j](https://michelcaradec.github.io/Neo4j%20Introduction/index.html)
+
+
 ### R, vous avez dit R ? - 2018-01-24
 
 Colin Fay (ThinkR) - ["R, vous avez-dit R ?"](https://github.com/ThinkR-open/meetup-r)
