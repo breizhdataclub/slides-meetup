@@ -1,5 +1,9 @@
 ## Slides des meetups
 
+### Machine Learning en macroéconomie - 2018--04-18
+
+Sandrine Lunven (TAC Economics) ["Machine Learning en macroéconomie"](https://github.com/breizhdataclub/slides-meetup/blob/master/TAC%20ECONOMICS%20-%20Meetup%202018%2004%20-%20Machine%20learning%20en%20macroeconomie.pdf)
+
 ### Neo4J : Introduction et étude de Cas — 2018-03-08
 
 Michel Caradec (Cegid) — [Introduction à Neo4j](https://michelcaradec.github.io/Neo4j%20Introduction/index.html)
