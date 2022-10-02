@@ -8,14 +8,13 @@ Sandrine Lunven (TAC Economics) ["Machine Learning en macroéconomie"](https://g
 
 Michel Caradec (Cegid) — [Introduction à Neo4j](https://michelcaradec.github.io/Neo4j%20Introduction/index.html)
 
-
 ### R, vous avez dit R ? - 2018-01-24
 
 Colin Fay (ThinkR) - ["R, vous avez-dit R ?"](https://github.com/ThinkR-open/meetup-r)
 
 ### À la découverte de Wikidata - 2017-12-12
 
-Enven Le Hir (Freelance engineer) — [Atelier Wikidata Premières contributions](https://commons.wikimedia.org/wiki/File:FR_-_Atelier_Wikidata_Premi%C3%A8res_contributions_(d%C3%A9cembre_2017,_Rennes).pdf)
+Envel Le Hir (Freelance engineer) — [Atelier Wikidata Premières contributions](https://commons.wikimedia.org/wiki/File:FR_-_Atelier_Wikidata_Premi%C3%A8res_contributions_(d%C3%A9cembre_2017,_Rennes).pdf)
 
 ### Text mining & Marketing — 2017-11-24 :
 
